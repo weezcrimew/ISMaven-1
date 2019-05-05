@@ -38,6 +38,9 @@ class Calculator extends JFrame  {
 		/* Название окна калькулятора */
 		super("Calculator");
 		
+		/*При нажатии на крестик калькулятор будет полностью выключаться*/
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
 		/* Задание размера и расположения окна */
 		setBounds(370, 300, 250, 100); 
 		
