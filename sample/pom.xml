@@ -43,7 +43,7 @@
 				<version>3.0.0-M3</version>
 				<configuration>
 					<includes>
-						<include>test*.java</include>
+						<include>*.java</include>
 					</includes>
 				</configuration>
 			</plugin>
