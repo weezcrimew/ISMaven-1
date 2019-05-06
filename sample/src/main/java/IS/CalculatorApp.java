@@ -1,7 +1,7 @@
 /* Указывается название пакета */
 package IS; 
 
-
+import java.awt.*; // импорт пакета
  import java.awt.event.*; //импорт пакета
 
 
