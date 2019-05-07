@@ -1,1 +1,1 @@
-https://travis-ci.org/SomeSomeRaw/ISMaven.svg?branch=master
+# https://travis-ci.org/SomeSomeRaw/ISMaven.svg?branch=master
