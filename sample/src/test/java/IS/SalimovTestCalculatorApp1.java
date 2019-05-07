@@ -16,7 +16,7 @@ calcTest.bCathedra.doClick();
 /* Ввод значения в первое поле (Количество учеников) */
 calcTest.textField1.setText("100"); 
 /* Ввод значения во второе поле (Количество учеников на руководителя) */
-calcTest.textField2.setText("5");
+calcTest.textField2.setText("-9");
 /* Ввод значения в третье поле (Количество свободных руководителей с кафедры)*/
 calcTest.textField3.setText("20"); 
 /* Нажатие кнопки "Провести рассчет" */
